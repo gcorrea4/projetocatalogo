@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 500" width="400" height="500">
+  <rect width="400" height="500" fill="#EFE7DD"/>
+  <g fill="none" stroke="#C7B299" stroke-width="6">
+    <path d="M130 210 q70 -70 140 0 v160 a20 20 0 0 1 -20 20 h-100 a20 20 0 0 1 -20 -20 z"/>
+    <path d="M150 210 v-20 a50 50 0 0 1 100 0 v20"/>
+  </g>
+  <text x="200" y="430" font-family="Poppins, sans-serif" font-size="22" fill="#9C8B73" text-anchor="middle">Foto em breve</text>
+</svg>

@@ -1,1 +1,25 @@
+/* Fontes do Google: Playfair (títulos elegantes) + Poppins (texto) */
+/* (precisa vir ANTES do import do Tailwind) */
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;600;700&family=Poppins:wght@300;400;500;600&display=swap');
+
 @import "tailwindcss";
+
+/* Define as fontes que as classes font-serif / font-sans vão usar */
+@theme {
+  --font-serif: "Playfair Display", serif;
+  --font-sans: "Poppins", sans-serif;
+}
+
+/* Animação de entrada suave usada no hero */
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(16px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+.animate-fade-in {
+  animation: fadeIn 1s ease-out both;
+}
+
+/* Rolagem suave ao clicar nos links do menu */
+html {
+  scroll-behavior: smooth;
+}
