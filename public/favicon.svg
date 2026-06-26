@@ -1,22 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 680">
-  <rect x="140" y="140" width="400" height="400" rx="48" fill="#F1E4D0"/>
-  <rect x="140" y="140" width="400" height="400" rx="48" fill="none" stroke="#C9A96E" stroke-width="6"/>
-  <text
-    x="340" y="420"
-    text-anchor="middle"
-    font-family="Georgia, 'Times New Roman', serif"
-    font-size="240"
-    font-weight="400"
-    fill="#6B4F2A"
-    letter-spacing="-4"
-  >N</text>
-  <text
-    x="340" y="510"
-    text-anchor="middle"
-    font-family="Georgia, 'Times New Roman', serif"
-    font-size="42"
-    font-weight="400"
-    fill="#C9A96E"
-    letter-spacing="8"
-  >ATELIÊ</text>
+<svg width="100%" viewBox="0 0 690 697.13" role="img" style="" xmlns="http://www.w3.org/2000/svg">
+  <title style="fill:rgb(0, 0, 0);stroke:none;color:rgb(11, 11, 11);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto">Favicon Nana Correa Ateliê v2</title>
+  <desc style="fill:rgb(0, 0, 0);stroke:none;color:rgb(11, 11, 11);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto">Fundo bege com a letra N grande ocupando todo o canvas</desc>
+
+  <rect x="0" y="0" width="680" height="680" rx="0" fill="#F1E4D0" style="fill:rgb(241, 228, 208);stroke:none;color:rgb(11, 11, 11);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+
+  <text x="340" y="560" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="580" font-weight="400" fill="#6B4F2A" style="fill:rgb(107, 79, 42);stroke:none;color:rgb(11, 11, 11);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:Georgia, &quot;Times New Roman&quot;, serif;font-size:580px;font-weight:400;text-anchor:middle;dominant-baseline:auto">N</text>
+
 </svg>
