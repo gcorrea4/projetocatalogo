@@ -93,7 +93,7 @@ function BolsaCard({ bolsa, onClick, index }: { bolsa: Bolsa; onClick: () => voi
         <h4 className="font-serif text-lg text-[#4A3F35] mb-1">{bolsa.nome}</h4>
         <p className="text-sm text-[#7A6E60] mb-2 px-2">{bolsa.descricao}</p>
         <p className="text-[#C19A6B] text-sm font-medium uppercase tracking-wide">
-          Valor sob consulta
+          {bolsa.preco}
         </p>
       </div>
     </article>
@@ -197,7 +197,7 @@ function Modal({
           </ul>
 
           <p className="text-[#C19A6B] font-medium uppercase tracking-wide mb-6 text-sm">
-            Valor sob consulta
+            {bolsa.preco}
           </p>
 
           <a
